@@ -16,4 +16,4 @@ runs:
 
         sudo apt update -y
         sudo apt install -y google-cloud-cli-gke-gcloud-auth-plugin
-        sudo apt install -y google-cloud-sdk-gke-gcloud-auth-plugin 
+        # sudo apt install -y google-cloud-sdk-gke-gcloud-auth-plugin 
